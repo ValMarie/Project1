@@ -1,0 +1,38 @@
+ body{
+ 	background:linear-gradient(#606fbd, black, yellow);
+        
+	}
+ center { 
+           background-image: url('file:///C:/Users/Public/Pictures/Sample%20Pictures/forest flowers.jpg');
+                           url (' file:///C:/Users/Public/Pictures/Sample%20Pictures/Garden.jpg');
+           background-repeat: inherit;
+           opacity:0.6;
+           }
+
+h1{
+	color: #454545;
+}
+
+
+        
+nav {
+	background: #ef4598;
+	opacity: 0.6;
+        paddding:10px;
+        
+    }
+
+nav ul li{ 
+       display: inline-block;
+       
+       }
+
+nav ul li a{
+	float: left;
+	padding: 20px;
+        color: #ffffff;
+        text-decoration: none;
+        display: block;
+         font-family: Arial;
+        font-size: 20;
+	}
